@@ -1,1 +1,1 @@
-Replace all characters A and c fro input to Z
+creating a script that removes all letters c and C from input
