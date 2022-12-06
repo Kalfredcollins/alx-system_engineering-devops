@@ -1,1 +1,1 @@
-script that reverse its input
+script that dispalys all users and their home directories
